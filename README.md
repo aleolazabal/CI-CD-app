@@ -62,8 +62,7 @@ The web app is tagged "web-latest". The scraper app is tagged "scraper-latest". 
 Instuctions on how to pull and run these images are inside the dockerhub repository readme. 
 
 DigitalOcean deployment:
-* Link to the web app(for human user): https://web-jpw57.ondigitalocean.app/
-* Link to the scraper app(for our web app): https://king-prawn-app-svy8t.ondigitalocean.app/
+* Link to App: https://sea-lion-app-zbqj8.ondigitalocean.app
 
 # Operate the Unit Tests locally
 * Look at [README.md](./web-app/tests) file for steps to test the web-app.
